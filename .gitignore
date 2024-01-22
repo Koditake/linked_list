@@ -30,3 +30,8 @@
 *.exe
 *.out
 *.app
+
+#Folders
+src/linked_list_smart_alt.cpp
+src/linked_list_smarter.cpp
+.vscode/
